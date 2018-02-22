@@ -14,7 +14,7 @@ figcaption {
 	font-size: 30px;
 }
 
-.my_animals {
+.my-animals {
 	text-align: center;
 	word-wrap: break-word;
 }
@@ -23,7 +23,7 @@ figcaption {
 	width: 100%;
 }
 	
-.name_role {
+.name-role {
 	text-align: right;
 }
 
@@ -36,7 +36,7 @@ figcaption {
 }
 
 @media screen and (max-width: 768px) {
-	.name_role {
+	.name-role {
 		text-align: center;
 	}
 }
@@ -48,4 +48,3 @@ figcaption {
 a {
 	font-size: medium;
 }
-
